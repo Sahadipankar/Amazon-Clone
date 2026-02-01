@@ -1,6 +1,6 @@
 # Amazon Clone
 
-![Amazon Clone Screenshot](demo.png)
+![Amazon Clone Screenshot](https://raw.githubusercontent.com/Sahadipankar/Amazon-Clone/main/Demo.png)
 
 ## About This Project
 
